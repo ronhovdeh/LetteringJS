@@ -1,2 +1,4 @@
 // YOUR SCRIPTS GO HERE
-$('h1').lettering();
+// scripts.js
+// Plugin at http://fittextjs.com/
+$("h1").fitText();
