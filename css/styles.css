@@ -1,8 +1,20 @@
 /********************
 YOUR STYLES
 *******************/
+h1{
+  font-size:5em;
+  text-align: center;
+  text-align: uppercase;
+}
 
+.char3 {
+  color:red;
+}
 
+.char5 {
+  color:aqua
+}
+  
 
 
 /********************
